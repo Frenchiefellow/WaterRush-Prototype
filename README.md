@@ -2,4 +2,4 @@ WaterRush-Prototype
 ===================
 Final version of our Prototype.
 
-Mostly worked on Facebook Login, Gameplay HTML's and css, everything with store and leaderboard on the client side. 
+Mostly worked on Facebook Login, Gameplay HTML's and css, everything with store and leaderboard on the client side, and little bit of their respective server side functions. 
